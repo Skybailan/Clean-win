@@ -1,4 +1,5 @@
 # CLEAN WIN v1.0 (正式版)
+<img width="2294" height="1280" alt="23e2dad6d694432a795a3b802e6a781b" src="https://github.com/user-attachments/assets/0cbf9050-fb72-4d3c-8462-22453bb9f4b7" />
 
 一款专注、高效的轻量级手机消息管理与分析工具。
 
